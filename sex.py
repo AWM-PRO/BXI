@@ -11,7 +11,7 @@ print ("""
         88888888P"  8P        Y8  88
 --------------------------------------------------
  Owner      : Binyamin Binni
- Cracked By : mamunXten + shantoXten
+ Cracked By : Mirwais + Skipper
  Status     : Free
  Version    : 3.3
 --------------------------------------------------
