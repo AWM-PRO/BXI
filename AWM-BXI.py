@@ -14,7 +14,9 @@ print ("""
  Cracked By : Mirwais + Skipper AWM TEAM
  Status     : Premium 
  Version    : 3.3
- Note j.       :Do not update the app, it will Data be deleted and we will not be responsible. It is completely safe
+ Note       :Do not update the app, it will Data be deleted
+             and we will not be responsible.
+             Link App from Telegram Number 3 Selected 
 --------------------------------------------------
 [01] Start Tool
 [02] Update
