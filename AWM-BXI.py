@@ -31,7 +31,7 @@ elif xxx in ('2'):
       os.system('git pull')
       os.system('clear && python sex.py')
 elif xxx in ('3'):
-      print ("""Download App From Telegram :
+      print ("""Download App From Here :
 
 https://t.me/AWM_TEAMPRO/12
       xx = input('Press Enter To Start Tool again')
