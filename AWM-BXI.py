@@ -12,7 +12,7 @@ print ("""
 --------------------------------------------------
  Owner      : Binyamin Binni
  Cracked By : Mirwais + Skipper
- Status     : Free
+ Status     : Premium
  Version    : 3.3
 --------------------------------------------------
 [01] Start Tool
